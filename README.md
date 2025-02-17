@@ -1,4 +1,4 @@
-
+## Tradingview Adblocker Detected Remover
 # How to install: 
 * Download all files into one Folder 
 * Open Chrome and go to chrome://extensions/.
